@@ -1,12 +1,1 @@
-README
-
-chat is a very simple chat server/client, begun as an excercise in using
-sockets and the basic parallel computing that stems from that.
-
-you can compile with "gcc main.c server.c client.c", and running the
-executable without any parameters gives usage.
-
-Note that there are hard limits on username/message buffers, and the only
-real feature in the client is "/quit" to quit (or ^D to send EOF)
-
-have fun!
+currently undergoing lots of rewriting/reorganizing. will be unusable for some time.
